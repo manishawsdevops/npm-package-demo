@@ -1,0 +1,633 @@
+{
+  "decisions": {
+    "1070443|@oracle-cx-commerce/cli>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>cache-manager>async": {
+      "decision": "ignore",
+      "madeAt": 1667991778921
+    },
+    "1070443|@oracle-cx-commerce/cli>@oracle-cx-commerce/accelerator-templates>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>cache-manager>async": {
+      "decision": "ignore",
+      "madeAt": 1667991778921
+    },
+    "1083256|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@surma/rollup-plugin-off-main-thread>ejs": {
+      "decision": "ignore",
+      "madeAt": 1667991783796
+    },
+    "1084495|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>node-fetch": {
+      "decision": "ignore",
+      "madeAt": 1667991789978
+    },
+    "1084495|@oracle-cx-commerce/cli>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>node-fetch": {
+      "decision": "ignore",
+      "madeAt": 1667991789978
+    },
+    "1084495|@oracle-cx-commerce/cli>@oracle-cx-commerce/accelerator-templates>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>node-fetch": {
+      "decision": "ignore",
+      "madeAt": 1667991789978
+    },
+    "1084991|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>rollup-plugin-postcss>postcss-modules>generic-names>loader-utils": {
+      "decision": "ignore",
+      "madeAt": 1669274254189,
+      "expiresAt": 1671866210060
+    },
+    "1084994|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>rollup-plugin-postcss>postcss-modules>generic-names>loader-utils": {
+      "decision": "ignore",
+      "madeAt": 1668594036781
+    },
+    "1085032|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>rollup-plugin-postcss>postcss-modules>generic-names>loader-utils": {
+      "decision": "ignore",
+      "madeAt": 1669274254189,
+      "expiresAt": 1671866210060
+    },
+    "1091148|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@babel/core>json5": {
+      "decision": "ignore",
+      "madeAt": 1679928330197
+    },
+    "1091148|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>react-docgen>@babel/core>json5": {
+      "decision": "ignore",
+      "madeAt": 1679928330197
+    },
+    "1091246|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>rollup-plugin-postcss>postcss-modules>generic-names>loader-utils": {
+      "decision": "ignore",
+      "madeAt": 1679928333459
+    },
+    "1091249|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>rollup-plugin-postcss>postcss-modules>generic-names>loader-utils": {
+      "decision": "ignore",
+      "madeAt": 1679928333459
+    },
+    "1088667|@oracle-cx-commerce/cli>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>cache-manager>async": {
+      "decision": "ignore",
+      "madeAt": 1679928335957
+    },
+    "1088667|@oracle-cx-commerce/cli>@oracle-cx-commerce/accelerator-templates>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>cache-manager>async": {
+      "decision": "ignore",
+      "madeAt": 1679928335957
+    },
+    "1088697|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>ua-parser-js": {
+      "decision": "ignore",
+      "madeAt": 1679928339534
+    },
+    "1089270|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@surma/rollup-plugin-off-main-thread>ejs": {
+      "decision": "ignore",
+      "madeAt": 1722864800966
+    },
+    "1090532|@oracle-cx-commerce/cli>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>http-cache-semantics": {
+      "decision": "ignore",
+      "madeAt": 1679928346417
+    },
+    "1090532|@oracle-cx-commerce/cli>@oracle-cx-commerce/accelerator-templates>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>http-cache-semantics": {
+      "decision": "ignore",
+      "madeAt": 1679928346417
+    },
+    "1091239|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>node-fetch": {
+      "decision": "ignore",
+      "madeAt": 1679928348067
+    },
+    "1091239|@oracle-cx-commerce/cli>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>node-fetch": {
+      "decision": "ignore",
+      "madeAt": 1679928348067
+    },
+    "1091239|@oracle-cx-commerce/cli>@oracle-cx-commerce/accelerator-templates>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>node-fetch": {
+      "decision": "ignore",
+      "madeAt": 1679928348067
+    },
+    "1091807|@oracle-cx-commerce/cli>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>http-cache-semantics": {
+      "decision": "ignore",
+      "madeAt": 1682402599157
+    },
+    "1091807|@oracle-cx-commerce/cli>@oracle-cx-commerce/accelerator-templates>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>http-cache-semantics": {
+      "decision": "ignore",
+      "madeAt": 1682402599157
+    },
+    "1091814|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>rollup-plugin-postcss>cssnano>yaml": {
+      "decision": "ignore",
+      "madeAt": 1682402605410
+    },
+    "1092303|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>ua-parser-js": {
+      "decision": "ignore",
+      "madeAt": 1687406723800
+    },
+    "1092310|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@babel/core>semver": {
+      "decision": "ignore",
+      "madeAt": 1687506286115,
+      "expiresAt": 1690098272763
+    },
+    "1092310|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@babel/core>@babel/helper-compilation-targets>semver": {
+      "decision": "ignore",
+      "madeAt": 1687506286115,
+      "expiresAt": 1690098272763
+    },
+    "1092310|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>react-docgen>@babel/core>@babel/helper-compilation-targets>semver": {
+      "decision": "ignore",
+      "madeAt": 1687506286115,
+      "expiresAt": 1690098272763
+    },
+    "1092310|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@oracle-cx-commerce/babel-config>@babel/preset-env>@babel/plugin-proposal-object-rest-spread>@babel/helper-compilation-targets>semver": {
+      "decision": "ignore",
+      "madeAt": 1687506286115,
+      "expiresAt": 1690098272763
+    },
+    "1092310|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@oracle-cx-commerce/babel-config>@babel/preset-env>babel-plugin-polyfill-corejs2>@babel/helper-define-polyfill-provider>@babel/helper-compilation-targets>semver": {
+      "decision": "ignore",
+      "madeAt": 1687506286115,
+      "expiresAt": 1690098272763
+    },
+    "1092310|@oracle-cx-commerce/cli>semver": {
+      "decision": "ignore",
+      "madeAt": 1687506286115,
+      "expiresAt": 1690098272763
+    },
+    "1092316|@oracle-cx-commerce/cli>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>http-cache-semantics": {
+      "decision": "ignore",
+      "madeAt": 1690192472384
+    },
+    "1092316|@oracle-cx-commerce/cli>@oracle-cx-commerce/accelerator-templates>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>http-cache-semantics": {
+      "decision": "ignore",
+      "madeAt": 1690192472384
+    },
+    "1092413|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@babel/core>@babel/helper-compilation-targets>semver": {
+      "decision": "ignore",
+      "madeAt": 1688990376041,
+      "expiresAt": 1691582250422
+    },
+    "1092413|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@oracle-cx-commerce/babel-config>@babel/preset-env>@babel/plugin-proposal-object-rest-spread>@babel/helper-compilation-targets>semver": {
+      "decision": "ignore",
+      "madeAt": 1688990376041,
+      "expiresAt": 1691582250422
+    },
+    "1092413|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@oracle-cx-commerce/babel-config>@babel/preset-env>babel-plugin-polyfill-corejs2>@babel/helper-define-polyfill-provider>@babel/helper-compilation-targets>semver": {
+      "decision": "ignore",
+      "madeAt": 1688990376041,
+      "expiresAt": 1691582250422
+    },
+    "1092413|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>react-docgen>@babel/core>@babel/helper-compilation-targets>semver": {
+      "decision": "ignore",
+      "madeAt": 1688990376041,
+      "expiresAt": 1691582250422
+    },
+    "1092413|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@babel/core>semver": {
+      "decision": "ignore",
+      "madeAt": 1688990376041,
+      "expiresAt": 1691582250422
+    },
+    "1092413|@oracle-cx-commerce/cli>semver": {
+      "decision": "ignore",
+      "madeAt": 1688990376041,
+      "expiresAt": 1691582250422
+    },
+    "1092424|@oracle-cx-commerce/cli>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>cache-manager>async": {
+      "decision": "ignore",
+      "madeAt": 1691586104011
+    },
+    "1092424|@oracle-cx-commerce/cli>@oracle-cx-commerce/accelerator-templates>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>cache-manager>async": {
+      "decision": "ignore",
+      "madeAt": 1691586104011
+    },
+    "1092460|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@babel/core>@babel/helper-compilation-targets>semver": {
+      "decision": "ignore",
+      "madeAt": 1689074302397
+    },
+    "1092460|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@oracle-cx-commerce/babel-config>@babel/preset-env>@babel/plugin-proposal-object-rest-spread>@babel/helper-compilation-targets>semver": {
+      "decision": "ignore",
+      "madeAt": 1689074302397
+    },
+    "1092460|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@oracle-cx-commerce/babel-config>@babel/preset-env>babel-plugin-polyfill-corejs2>@babel/helper-define-polyfill-provider>@babel/helper-compilation-targets>semver": {
+      "decision": "ignore",
+      "madeAt": 1689074302397
+    },
+    "1092460|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>react-docgen>@babel/core>@babel/helper-compilation-targets>semver": {
+      "decision": "ignore",
+      "madeAt": 1689074302397
+    },
+    "1092460|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@babel/core>semver": {
+      "decision": "ignore",
+      "madeAt": 1689074302397
+    },
+    "1092461|@oracle-cx-commerce/cli>semver": {
+      "decision": "ignore",
+      "madeAt": 1689074302397
+    },
+    "1093263|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@babel/core>semver": {
+      "decision": "ignore",
+      "madeAt": 1693925769313
+    },
+    "1093263|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@babel/core>@babel/helper-compilation-targets>semver": {
+      "decision": "ignore",
+      "madeAt": 1693925769313
+    },
+    "1093263|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>react-docgen>@babel/core>@babel/helper-compilation-targets>semver": {
+      "decision": "ignore",
+      "madeAt": 1693925769313
+    },
+    "1093263|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@oracle-cx-commerce/babel-config>@babel/preset-env>@babel/plugin-proposal-object-rest-spread>@babel/helper-compilation-targets>semver": {
+      "decision": "ignore",
+      "madeAt": 1693925769313
+    },
+    "1093263|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@oracle-cx-commerce/babel-config>@babel/preset-env>babel-plugin-polyfill-corejs2>@babel/helper-define-polyfill-provider>@babel/helper-compilation-targets>semver": {
+      "decision": "ignore",
+      "madeAt": 1693925769313
+    },
+    "1093264|@oracle-cx-commerce/cli>semver": {
+      "decision": "ignore",
+      "madeAt": 1693925769313
+    },
+    "1093429|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>node-fetch": {
+      "decision": "ignore",
+      "madeAt": 1694184605290
+    },
+    "1093429|@oracle-cx-commerce/cli>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>node-fetch": {
+      "decision": "ignore",
+      "madeAt": 1694184605290
+    },
+    "1093429|@oracle-cx-commerce/cli>@oracle-cx-commerce/accelerator-templates>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>node-fetch": {
+      "decision": "ignore",
+      "madeAt": 1694184605290
+    },
+    "1094239|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>postcss": {
+      "decision": "ignore",
+      "madeAt": 1696414253575
+    },
+    "1094239|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>postcss-custom-properties>postcss-values-parser>postcss": {
+      "decision": "ignore",
+      "madeAt": 1696414253575
+    },
+    "1094280|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>postcss": {
+      "decision": "ignore",
+      "madeAt": 1696938178832
+    },
+    "1094280|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>postcss-custom-properties>postcss-values-parser>postcss": {
+      "decision": "ignore",
+      "madeAt": 1696938178832
+    },
+    "1094304|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>postcss": {
+      "decision": "ignore",
+      "madeAt": 1697011614504
+    },
+    "1094304|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>postcss-custom-properties>postcss-values-parser>postcss": {
+      "decision": "ignore",
+      "madeAt": 1697011614504
+    },
+    "1094349|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@babel/core>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1697529597208
+    },
+    "1094349|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@babel/core>@babel/helper-module-transforms>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1697529597208
+    },
+    "1094349|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>react-docgen>@babel/core>@babel/helper-module-transforms>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1697529597208
+    },
+    "1094349|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@oracle-cx-commerce/babel-config>@babel/preset-env>@babel/plugin-transform-modules-amd>@babel/helper-module-transforms>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1697529597208
+    },
+    "1094349|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@oracle-cx-commerce/babel-config>@babel/preset-env>@babel/plugin-proposal-class-properties>@babel/helper-create-class-features-plugin>@babel/helper-replace-supers>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1697529597208
+    },
+    "1094356|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@babel/core>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1697556690195
+    },
+    "1094356|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@babel/core>@babel/helper-module-transforms>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1697556690195
+    },
+    "1094356|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>react-docgen>@babel/core>@babel/helper-module-transforms>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1697556690195
+    },
+    "1094356|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@oracle-cx-commerce/babel-config>@babel/preset-env>@babel/plugin-transform-modules-amd>@babel/helper-module-transforms>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1697556690195
+    },
+    "1094356|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@oracle-cx-commerce/babel-config>@babel/preset-env>@babel/plugin-proposal-class-properties>@babel/helper-create-class-features-plugin>@babel/helper-replace-supers>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1697556690195
+    },
+    "1094379|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@babel/core>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1697739088414
+    },
+    "1094379|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@babel/core>@babel/helper-module-transforms>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1697739088414
+    },
+    "1094379|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>react-docgen>@babel/core>@babel/helper-module-transforms>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1697739088414
+    },
+    "1094379|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@oracle-cx-commerce/babel-config>@babel/preset-env>@babel/plugin-transform-modules-amd>@babel/helper-module-transforms>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1697739088414
+    },
+    "1094379|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@oracle-cx-commerce/babel-config>@babel/preset-env>@babel/plugin-proposal-class-properties>@babel/helper-create-class-features-plugin>@babel/helper-replace-supers>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1697739088414
+    },
+    "1094415|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@babel/core>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1697810966942
+    },
+    "1094415|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@babel/core>@babel/helper-module-transforms>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1697810966942
+    },
+    "1094415|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>react-docgen>@babel/core>@babel/helper-module-transforms>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1697810966942
+    },
+    "1094415|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@oracle-cx-commerce/babel-config>@babel/preset-env>@babel/plugin-transform-modules-amd>@babel/helper-module-transforms>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1697810966942
+    },
+    "1094415|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@oracle-cx-commerce/babel-config>@babel/preset-env>@babel/plugin-proposal-class-properties>@babel/helper-create-class-features-plugin>@babel/helper-replace-supers>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1697810966942
+    },
+    "1094446|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@babel/core>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1698221490809
+    },
+    "1094446|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@babel/core>@babel/helper-module-transforms>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1698221490809
+    },
+    "1094446|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>react-docgen>@babel/core>@babel/helper-module-transforms>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1698221490809
+    },
+    "1094446|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@oracle-cx-commerce/babel-config>@babel/preset-env>@babel/plugin-transform-modules-amd>@babel/helper-module-transforms>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1698221490809
+    },
+    "1094446|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@oracle-cx-commerce/babel-config>@babel/preset-env>@babel/plugin-proposal-class-properties>@babel/helper-create-class-features-plugin>@babel/helper-replace-supers>@babel/traverse": {
+      "decision": "ignore",
+      "madeAt": 1698221490809
+    },
+    "1094544|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>postcss": {
+      "decision": "ignore",
+      "madeAt": 1699284670332
+    },
+    "1094555|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@babel/core>semver": {
+      "decision": "ignore",
+      "madeAt": 1699284672530
+    },
+    "1094555|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@babel/core>@babel/helper-compilation-targets>semver": {
+      "decision": "ignore",
+      "madeAt": 1699284672530
+    },
+    "1094555|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>react-docgen>@babel/core>@babel/helper-compilation-targets>semver": {
+      "decision": "ignore",
+      "madeAt": 1699284672530
+    },
+    "1094555|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@oracle-cx-commerce/babel-config>@babel/preset-env>@babel/plugin-proposal-object-rest-spread>@babel/helper-compilation-targets>semver": {
+      "decision": "ignore",
+      "madeAt": 1699284672530
+    },
+    "1094555|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@oracle-cx-commerce/babel-config>@babel/preset-env>babel-plugin-polyfill-corejs2>@babel/helper-define-polyfill-provider>@babel/helper-compilation-targets>semver": {
+      "decision": "ignore",
+      "madeAt": 1699284672530
+    },
+    "1094556|@oracle-cx-commerce/cli>semver": {
+      "decision": "ignore",
+      "madeAt": 1699284672530
+    },
+    "1095002|@oracle-cx-commerce/cli>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>cache-manager>async": {
+      "decision": "ignore",
+      "madeAt": 1701259041643
+    },
+    "1095002|@oracle-cx-commerce/cli>@oracle-cx-commerce/accelerator-templates>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>cache-manager>async": {
+      "decision": "ignore",
+      "madeAt": 1701259041643
+    },
+    "1095371|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>http-proxy-middleware>http-proxy>follow-redirects": {
+      "decision": "ignore",
+      "madeAt": 1704814923619
+    },
+    "1095367|@oracle-cx-commerce/cli>semver": {
+      "decision": "ignore",
+      "madeAt": 1704814927793
+    },
+    "1095374|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>http-proxy-middleware>http-proxy>follow-redirects": {
+      "decision": "ignore",
+      "madeAt": 1704888228729
+    },
+    "1096311|@oracle-cx-commerce/cli>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>cache-manager>async": {
+      "decision": "ignore",
+      "madeAt": 1706528765028
+    },
+    "1096311|@oracle-cx-commerce/cli>@oracle-cx-commerce/accelerator-templates>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>cache-manager>async": {
+      "decision": "ignore",
+      "madeAt": 1706528765028
+    },
+    "1096353|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>http-proxy-middleware>http-proxy>follow-redirects": {
+      "decision": "ignore",
+      "madeAt": 1712139076211
+    },
+    "1096477|@oracle-cx-commerce/cli>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>cache-manager>async": {
+      "decision": "ignore",
+      "madeAt": 1713184898094
+    },
+    "1096477|@oracle-cx-commerce/cli>@oracle-cx-commerce/accelerator-templates>@oracle-cx-commerce/tools-util>@oracle-cx-commerce/http-client>cache-manager>async": {
+      "decision": "ignore",
+      "madeAt": 1713184898094
+    },
+    "1096482|@oracle-cx-commerce/cli>semver": {
+      "decision": "ignore",
+      "madeAt": 1708946668997
+    },
+    "1096592|es5-ext": {
+      "decision": "ignore",
+      "madeAt": 1709036612014
+    },
+    "1096592|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>reload>cli-color>es5-ext": {
+      "decision": "ignore",
+      "madeAt": 1709036612014
+    },
+    "1096592|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>reload>cli-color>d>es5-ext": {
+      "decision": "ignore",
+      "madeAt": 1709036612014
+    },
+    "1096592|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>reload>cli-color>es6-iterator>d>es5-ext": {
+      "decision": "ignore",
+      "madeAt": 1709036612014
+    },
+    "1096592|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>reload>cli-color>es6-iterator>es6-symbol>d>es5-ext": {
+      "decision": "ignore",
+      "madeAt": 1709036612014
+    },
+    "1096592|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>reload>cli-color>d>es5-ext>es6-iterator>d>es5-ext": {
+      "decision": "ignore",
+      "madeAt": 1709036612014
+    },
+    "1096592|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>reload>cli-color>d>es5-ext>es6-iterator>es6-symbol>d>es5-ext": {
+      "decision": "ignore",
+      "madeAt": 1709036612014
+    },
+    "1096592|@oracle-cx-commerce/cli>es5-ext": {
+      "decision": "ignore",
+      "madeAt": 1709036612014
+    },
+    "1096692|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>http-proxy-middleware>http-proxy>follow-redirects": {
+      "decision": "ignore",
+      "madeAt": 1710517094616,
+      "expiresAt": 1713109079959
+    },
+    "1096781|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>http-proxy-middleware>http-proxy>follow-redirects": {
+      "decision": "ignore",
+      "madeAt": 1711375390204
+    },
+    "1096807|@oracle-cx-commerce/cli>express": {
+      "decision": "ignore",
+      "madeAt": 1711443601863
+    },
+    "1096807|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>express": {
+      "decision": "ignore",
+      "madeAt": 1711443601863
+    },
+    "1096820|@oracle-cx-commerce/cli>express": {
+      "decision": "ignore",
+      "madeAt": 1726142783936
+    },
+    "1096820|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>express": {
+      "decision": "ignore",
+      "madeAt": 1726142783936
+    },
+    "1096836|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>http-proxy-middleware>http-proxy>follow-redirects": {
+      "decision": "ignore",
+      "madeAt": 1712039968163
+    },
+    "1096856|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>http-proxy-middleware>http-proxy>follow-redirects": {
+      "decision": "ignore",
+      "madeAt": 1712139076211
+    },
+    "1097210|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@surma/rollup-plugin-off-main-thread>ejs": {
+      "decision": "ignore",
+      "madeAt": 1714558630100
+    },
+    "1097496|@oracle-cx-commerce/cli>@oracle-cx-commerce/builder>sass>chokidar>braces": {
+      "decision": "ignore",
+      "madeAt": 1718119659273
+    },
+    "1097492|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@surma/rollup-plugin-off-main-thread>ejs": {
+      "decision": "ignore",
+      "madeAt": 1718119661368
+    },
+    "1097616|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>reload>ws": {
+      "decision": "ignore",
+      "madeAt": 1718725205922
+    },
+    "1098094|@oracle-cx-commerce/cli>@oracle-cx-commerce/builder>sass>chokidar>braces": {
+      "decision": "ignore",
+      "madeAt": 1720514217251
+    },
+    "1098366|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>@surma/rollup-plugin-off-main-thread>ejs": {
+      "decision": "ignore",
+      "madeAt": 1722864800966
+    },
+    "1098393|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>reload>ws": {
+      "decision": "ignore",
+      "madeAt": 1722864803229
+    },
+    "1098562|@oracle-cx-commerce/cli>semver": {
+      "decision": "ignore",
+      "madeAt": 1723197541341
+    },
+    "1098615|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>http-proxy-middleware>micromatch": {
+      "decision": "ignore",
+      "madeAt": 1724320072277
+    },
+    "1098618|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>http-proxy-middleware>micromatch": {
+      "decision": "ignore",
+      "madeAt": 1724853296890
+    },
+    "1098681|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>http-proxy-middleware>micromatch": {
+      "decision": "ignore",
+      "madeAt": 1724858747312
+    },
+    "1099529|@oracle-cx-commerce/cli>express": {
+      "decision": "ignore",
+      "madeAt": 1726142783936
+    },
+    "1099529|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>express": {
+      "decision": "ignore",
+      "madeAt": 1726142783936
+    },
+    "1099520|@oracle-cx-commerce/cli>express>body-parser": {
+      "decision": "ignore",
+      "madeAt": 1726142787830
+    },
+    "1099520|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>express>body-parser": {
+      "decision": "ignore",
+      "madeAt": 1726142787830
+    },
+    "1099525|@oracle-cx-commerce/cli>express>send": {
+      "decision": "ignore",
+      "madeAt": 1726142789947
+    },
+    "1099525|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>express>send": {
+      "decision": "ignore",
+      "madeAt": 1726142789947
+    },
+    "1099525|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>express>serve-static>send": {
+      "decision": "ignore",
+      "madeAt": 1726142789947
+    },
+    "1099525|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>reload>serve-static>send": {
+      "decision": "ignore",
+      "madeAt": 1726142789948
+    },
+    "1099527|@oracle-cx-commerce/cli>express>serve-static": {
+      "decision": "ignore",
+      "madeAt": 1726142791702
+    },
+    "1099527|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>express>serve-static": {
+      "decision": "ignore",
+      "madeAt": 1726142791702
+    },
+    "1099527|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>reload>serve-static": {
+      "decision": "ignore",
+      "madeAt": 1726142791702
+    },
+    "1099540|@oracle-cx-commerce/cli>express>path-to-regexp": {
+      "decision": "ignore",
+      "madeAt": 1726142793636
+    },
+    "1099540|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>express>path-to-regexp": {
+      "decision": "ignore",
+      "madeAt": 1726142793636
+    },
+    "1099562|@oracle-cx-commerce/cli>express>path-to-regexp": {
+      "decision": "ignore",
+      "madeAt": 1726562201691
+    },
+    "1099562|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>express>path-to-regexp": {
+      "decision": "ignore",
+      "madeAt": 1726562201691
+    },
+    "1099718|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>rollup": {
+      "decision": "ignore",
+      "madeAt": 1727251713173
+    },
+    "1099758|@oracle-cx-commerce/cli>@oracle-cx-commerce/rollup-config>rollup": {
+      "decision": "ignore",
+      "madeAt": 1727703228636
+    },
+    "1099846|@oracle-cx-commerce/cli>express>cookie": {
+      "decision": "ignore",
+      "madeAt": 1728656025655
+    },
+    "1099846|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>express>cookie": {
+      "decision": "ignore",
+      "madeAt": 1728656025655
+    },
+    "1100223|@oracle-cx-commerce/cli>@oracle-cx-commerce/express-app>http-proxy-middleware": {
+      "decision": "ignore",
+      "madeAt": 1729672077339
+    }
+  },
+  "rules": {},
+  "version": 1
+}
